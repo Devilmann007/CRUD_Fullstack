@@ -1,20 +1,36 @@
 # CRUD Fullstack App
 
-Este es un proyecto Fullstack que implementa operaciones CRUD (Crear, Leer, Actualizar y Eliminar) usando una arquitectura moderna con un **frontend en React** y un **backend en Node.js con Express**. La base de datos utilizada es **MongoDB**.
+Este es un proyecto **Fullstack** que implementa operaciones CRUD (Crear, Leer, Actualizar y Eliminar) usando un **backend en Django Rest Framework** con **PostgreSQL**, y un **frontend en React** con estilos usando **Tailwind CSS**. La comunicación entre ambos se realiza mediante **Axios**.
 
-## 🛠️ Tecnologías
+---
+
+## 🚀 Tecnologías Utilizadas
+
+- **Backend:**
+  - Django 4.2
+  - Django REST Framework
+  - PostgreSQL
+  - django-cors-headers
+  - python-dotenv
 
 - **Frontend:**
   - React.js
+  - JavaScript
   - Axios
-  - Tailwind CSS (opcional)
+  - Tailwind CSS
 
-- **Backend:**
-  - Node.js
-  - Express
-  - MongoDB con Mongoose
+---
 
-## 🚀 Instalación y ejecución
+## ⚙️ Requisitos Previos
+
+- Python 3.10+
+- PostgreSQL instalado
+- Node.js y npm
+- Git
+
+---
+
+## 🧩 Instalación
 
 ### 1. Clona el repositorio
 
