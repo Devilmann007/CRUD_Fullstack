@@ -1,10 +1,17 @@
-asgiref==3.8.1           # ASGI server gateway
-Django==4.2.10           # Framework web de alto nivel en Python
-djangorestframework==3.16.0 # Toolkit para construir APIs Web
-psycopg2-binary==2.9.9   # Adaptador binario de PostgreSQL para Python (más fácil de instalar)
-pytz==2025.2             # Soporte para zonas horarias
-setuptools==79.0.0       # Herramientas para empaquetar y distribuir Python
-sqlparse>=0.3.1          # Analizador de SQL no validador
-tzdata==2025.2           # Datos de la base de datos de zonas horarias IANA
-requests==2.31.0         # Biblioteca para hacer peticiones HTTP
-python-dotenv==1.0.1      # Para cargar variables de entorno desde un archivo .env
+asgiref==3.8.1
+certifi==2025.1.31
+charset-normalizer==3.4.1
+Django==4.2.10
+django-cors-headers==4.7.0
+djangorestframework==3.16.0
+idna==3.10
+psycopg2==2.9.10
+psycopg2-binary==2.9.10
+python-dotenv==1.0.1
+pytz==2025.2
+requests==2.31.0
+setuptools==79.0.0
+sqlparse==0.5.3
+tzdata==2025.2
+urllib3==2.4.0
+wheel==0.45.1
