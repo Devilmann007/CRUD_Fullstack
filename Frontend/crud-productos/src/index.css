@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+html, body, #root {
+     margin: 8px;
+     padding: 0;
+    height: 100%;
+    background-image: url('/Imagenes/Fondo.jpg');
+    background-size: cover; /* Para que la imagen cubra todo el fondo */
+    background-position: center; /* Para centrar la imagen */
+    background-repeat: no-repeat; /* Para evitar que la imagen se repita */
+    background-attachment: fixed; /* Para que la imagen no se mueva al hacer scroll */
+    background-color: #042F2E;
+}
